@@ -1,1 +1,1 @@
-# fibonacciRecursion
+This code generates the Fibonacci sequence by starting from two initial numbers and repeatedly appending the current value while updating the pair to the next two Fibonacci numbers. It returns an array containing the requested number of Fibonacci terms.
